@@ -38,7 +38,7 @@ Giữ nguyên hình khi không xác định được tâm vạch. Lint revision 
 
 ## 4. Phiếu QC 1 nhận được
 
-Hà Huy Dũng kiểm revision 1 và kết luận **Rework** (2 lỗi nặng, 8 lỗi chính trên 52 nhãn). Phiếu mình lập cho lô của Dũng nằm ở `trieuhoanghieu-qc1-for-hahuydung.md`.
+Hà Huy Dũng kiểm revision 1 và kết luận **Rework** (2 lỗi nặng, 8 lỗi chính trên 52 nhãn). Phiếu mình lập cho lô của Dũng nằm ở `trieuhoanghieu-qc1-for-hahuydung.md`. Mẫu mình kiểm gồm 6 ảnh A01–A06, tổng cộng 51 nhãn. Ghi nhận 3 lỗi chính (5,88%) và kết luận Rework.
 
 | Mã | Số lỗi | Đã sửa trong revision 2 |
 | --- | ---: | --- |
