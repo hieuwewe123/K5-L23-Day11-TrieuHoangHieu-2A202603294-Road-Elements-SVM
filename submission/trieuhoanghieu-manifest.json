@@ -3,13 +3,13 @@
   "format": "CVAT for images 1.1",
   "guideline": "Road v1.0",
   "name": "trieuhoanghieu",
-  "revision": 2,
-  "created_at": "2026-11-20T10:52:30+00:00",
+  "revision": 3,
+  "created_at": "2026-11-20T12:05:05+00:00",
   "files": [
     {
       "file": "trieuhoanghieu-front.zip",
-      "bytes": 4641,
-      "sha256": "4271773c717e74d63d621cc755b1bfe1fb04161595ab35d649910b9595ca021b",
+      "bytes": 4684,
+      "sha256": "c1612af34a28e1a45307200c46f8c3d7e321ba56c10a3bac0e1c10e27949667c",
       "contains_images": false,
       "images": 16,
       "images_unlabelled": 0,

@@ -4,7 +4,7 @@ Họ tên: Triệu Hoàng Hiếu<br>
 Mã học viên: 2A202603294<br>
 CVAT: 2.81.0<br>
 Guideline: Road v1.0<br>
-Manifest: revision 2 (sau Rework)
+Manifest: revision 3 (sau rà bổ sung)
 
 ## 1. Kiểm project
 
@@ -49,6 +49,8 @@ Hà Huy Dũng kiểm revision 1 và kết luận **Rework** (2 lỗi nặng, 8 l
 | QC1-11 | 2 | Bổ sung điểm bám cung cho R1 B03 và rút ngắn road_curb B05. |
 
 Ba ca mơ hồ trong phiếu (L1 xa ở B03, road_curb A10 và weather B05) vẫn là mục cần đối chiếu. Đã lưu bản cũ trong `out/r1/`.
+
+**Revision 3:** Căn lại R1 A02 theo tâm vạch trắng. Căn lại R1 A04 và ranh giới chung của hai vùng drivable.
 
 ## 5. Kiểm file
 

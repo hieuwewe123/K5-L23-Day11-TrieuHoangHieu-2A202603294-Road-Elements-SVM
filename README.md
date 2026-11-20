@@ -41,7 +41,7 @@ uv run --with pytest==8.3.4 pytest -q
 
 `lint` chỉ kiểm định dạng file. Nó không so bài của bạn với GT và không cho điểm. Coach chấm bằng `road_check check` hoặc `road_check batch` sau buổi.
 
-## Bài nộp · Revision 2
+## Bài nộp · Revision 3
 
 - [Hai ZIP nhãn Front và Fisheye trên Google Drive](https://drive.google.com/drive/folders/1qo8dyU2uZ0tSZaLRexYspB0hfhtjqV3J)
 - [Manifest, báo cáo và phiếu QC 1](submission/)
